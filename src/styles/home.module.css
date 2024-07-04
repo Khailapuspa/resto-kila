@@ -1,0 +1,24 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6rem;
+    min-height: 100vh;
+}
+
+.nav {
+    border-style: groove;
+    width: 100%;
+    height: 50px;
+    border-radius: 20px;
+}
+
+.heros {
+    width: 100%;
+    height: 300px;
+}
+
+.title {
+    color: brown;
+}
